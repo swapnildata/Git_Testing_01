@@ -4,3 +4,5 @@ if __name__=="__main__":
     print("c=", c)
     s=calculator.square(c)
     print("s=",s)
+    k=calculator.cube(s)
+    print("k=",k)
