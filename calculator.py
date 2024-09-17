@@ -5,3 +5,7 @@ def addition(a,b):
 def square(s):
     s=s*s
     return s
+
+def cube(k):
+    k=k*k*k
+    return k
