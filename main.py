@@ -6,3 +6,5 @@ if __name__=="__main__":
     print("s=",s)
     k=calculator.cube(s)
     print("k=",k)
+    mul=calculator.mul(k,s)
+    print("The multiplication is: ", mul)
