@@ -9,3 +9,6 @@ def square(s):
 def cube(k):
     k=k*k*k
     return k
+
+def mul(k,s):
+    return (k*s)
